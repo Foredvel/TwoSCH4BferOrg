@@ -1,0 +1,6 @@
+SOURCE += twoSCH4BferThermos.C
+SOURCE += makeReactionsTwoS.C
+SOURCE += makeChemistryModelsTwoS.C
+SOURCE += makeChemistryReductionMethodsTwoS.C
+
+LIB = $(FOAM_USER_LIBBIN)/twoSCH4BferLib

@@ -1,0 +1,6 @@
+twoSCH4BferThermos.C
+makeReactionsTwoS.C
+makeChemistryModelsTwoS.C
+makeChemistryReductionMethodsTwoS.C
+
+LIB = $(FOAM_USER_LIBBIN)/twoSCH4BferLib
